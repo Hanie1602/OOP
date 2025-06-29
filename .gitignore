@@ -1,0 +1,26 @@
+# Biên dịch Java
+*.class
+
+# Thư mục build (nếu có)
+bin/
+build/
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
